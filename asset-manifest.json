@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/httpL//apatchipulusu@github.io/static/css/main.b0fa4411.chunk.css",
+    "main.js": "/httpL//apatchipulusu@github.io/static/js/main.861b26e0.chunk.js",
+    "main.js.map": "/httpL//apatchipulusu@github.io/static/js/main.861b26e0.chunk.js.map",
+    "runtime-main.js": "/httpL//apatchipulusu@github.io/static/js/runtime-main.ab14040f.js",
+    "runtime-main.js.map": "/httpL//apatchipulusu@github.io/static/js/runtime-main.ab14040f.js.map",
+    "static/js/2.35bd6d74.chunk.js": "/httpL//apatchipulusu@github.io/static/js/2.35bd6d74.chunk.js",
+    "static/js/2.35bd6d74.chunk.js.map": "/httpL//apatchipulusu@github.io/static/js/2.35bd6d74.chunk.js.map",
+    "index.html": "/httpL//apatchipulusu@github.io/index.html",
+    "precache-manifest.4efadb4ae4ab4375398308bd6303d743.js": "/httpL//apatchipulusu@github.io/precache-manifest.4efadb4ae4ab4375398308bd6303d743.js",
+    "service-worker.js": "/httpL//apatchipulusu@github.io/service-worker.js",
+    "static/css/main.b0fa4411.chunk.css.map": "/httpL//apatchipulusu@github.io/static/css/main.b0fa4411.chunk.css.map",
+    "static/js/2.35bd6d74.chunk.js.LICENSE.txt": "/httpL//apatchipulusu@github.io/static/js/2.35bd6d74.chunk.js.LICENSE.txt",
+    "static/media/IMG_2038.jpg": "/httpL//apatchipulusu@github.io/static/media/IMG_2038.50e060cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab14040f.js",
+    "static/js/2.35bd6d74.chunk.js",
+    "static/css/main.b0fa4411.chunk.css",
+    "static/js/main.861b26e0.chunk.js"
+  ]
+}
